@@ -4,4 +4,4 @@ this is my first git project
 
 i am here again, i like github!!
 
-come again, iam hardworking man.
+come again, i am hardworking man.
